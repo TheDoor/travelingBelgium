@@ -32,6 +32,8 @@ Bolt exists in Belgium but only in Brussels and Flanders. Uber is an option for 
 
 I only see people use taxi services in Belgium in the more rural parts. In between cities the trains are easy and relatively affordable and in the cities public transport like tram, bus, metro are the way to go. (or rental bikes) 
 
+# 4. Planning a journey
+
 I use the apps for buying tickets and maybe checking specific trains or busses (there are some live tracking features) and I use Google maps to plan my journeys. 
 
 1. **Busses, trams, metro in Belgium**
